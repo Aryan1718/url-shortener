@@ -2,6 +2,10 @@
 
 Project structure for a URL shortener application.
 
+## Architecture
+
+![URL Shortener Architecture](docs/images/url-shortener.png)
+
 ## Folders
 
 - `frontend/` - Client-side application code.
